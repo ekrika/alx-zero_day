@@ -1,1 +1,1 @@
-my first repo as full-stack
+my first repo as full-stack dev
